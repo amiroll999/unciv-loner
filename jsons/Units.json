@@ -1,8 +1,8 @@
 [
   {
-    "name": "Worker",
+    "name": "WorkerX",
     "unitType": "Civilian",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Worker",
     "movement": 2,
     "uniques": [
@@ -12,9 +12,9 @@
     "cost": 70
   },
   {
-    "name": "Settler",
+    "name": "SettlerX",
     "unitType": "Civilian",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Settler",
     "movement": 2,
     "cost": 106,
@@ -27,9 +27,9 @@
     "hurryCostModifier": 20
   },
   {
-    "name": "Work Boats",
+    "name": "Work BoatsX",
     "unitType": "Civilian Water",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Work Boats",
     "movement": 4,
     "cost": 30,
@@ -42,9 +42,9 @@
     ]
   },
   {
-    "name": "Scout",
+    "name": "ScoutX",
     "unitType": "Scout",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Scout",
     "movement": 2,
     "strength": 5,
@@ -67,9 +67,9 @@
     "attackSound": "nonmetalhit"
   },
   {
-    "name": "Warrior",
+    "name": "WarriorX",
     "unitType": "Sword",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Warrior",
     "movement": 2,
     "strength": 8,
@@ -109,9 +109,9 @@
     ]
   },
   {
-    "name": "Swordsman",
+    "name": "SwordsmanX",
     "unitType": "Sword",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Swordsman",
     "movement": 2,
     "strength": 14,
@@ -146,9 +146,9 @@
     "attackSound": "metalhit"
   },
   {
-    "name": "Longswordsman",
+    "name": "LongswordsmanX",
     "unitType": "Sword",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Longswordsman",
     "movement": 2,
     "strength": 21,
@@ -182,9 +182,9 @@
     "attackSound": "metalhit"
   },
   {
-    "name": "Musketman",
+    "name": "MusketmanX",
     "unitType": "Gunpowder",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Musketman",
     "movement": 2,
     "strength": 24,
@@ -217,9 +217,9 @@
     "attackSound": "shot"
   },
   {
-    "name": "Rifleman",
+    "name": "RiflemanX",
     "unitType": "Gunpowder",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Rifleman",
     "movement": 2,
     "strength": 34,
@@ -252,9 +252,9 @@
     "attackSound": "shot"
   },
   {
-    "name": "Great War Infantry",
+    "name": "Great War InfantryX",
     "unitType": "Gunpowder",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Great War Infantry",
     "movement": 2,
     "strength": 50,
@@ -287,9 +287,9 @@
     "attackSound": "shot"
   },
   {
-    "name": "Infantry",
+    "name": "InfantryX",
     "unitType": "Gunpowder",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Infantry",
     "movement": 2,
     "strength": 70,
@@ -322,9 +322,9 @@
     "attackSound": "shot"
   },
   {
-    "name": "Archer",
+    "name": "ArcherX",
     "unitType": "Archery",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Archer",
     "movement": 2,
     "strength": 5,
@@ -351,9 +351,9 @@
     "attackSound": "arrow"
   },
   {
-    "name": "Composite Bowman",
+    "name": "Composite BowmanX",
     "unitType": "Archery",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Composite Bowman",
     "movement": 2,
     "strength": 7,
@@ -380,9 +380,9 @@
     "attackSound": "arrow"
   },
   {
-    "name": "Crossbowman",
+    "name": "CrossbowmanX",
     "unitType": "Archery",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Crossbowman",
     "movement": 2,
     "strength": 13,
@@ -409,9 +409,9 @@
     "attackSound": "arrow"
   },
   {
-    "name": "Gatling Gun",
+    "name": "Gatling GunX",
     "unitType": "Ranged Gunpowder",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Gatling Gun",
     "range": 1,
     "movement": 2,
@@ -439,9 +439,9 @@
     "attackSound": "machinegun"
   },
   {
-    "name": "Machine Gun",
+    "name": "Machine GunX",
     "unitType": "Ranged Gunpowder",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Machine Gun",
     "range": 1,
     "movement": 2,
@@ -468,9 +468,9 @@
     "attackSound": "machinegun"
   },
   {
-    "name": "Mechanized Infantry",
+    "name": "Mechanized InfantryX",
     "unitType": "Gunpowder",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Mechanized Infantry",
     "movement": 3,
     "strength": 90,
@@ -504,9 +504,9 @@
     "attackSound": "tankshot"
   },
   {
-    "name": "Spearman",
+    "name": "SpearmanX",
     "unitType": "Sword",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Spearman",
     "movement": 2,
     "strength": 11,
@@ -542,9 +542,9 @@
     "attackSound": "metalhit"
   },
   {
-    "name": "Pikeman",
+    "name": "PikemanX",
     "unitType": "Sword",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Pikeman",
     "movement": 2,
     "strength": 16,
@@ -580,9 +580,9 @@
     "attackSound": "metalhit"
   },
   {
-    "name": "Lancer",
+    "name": "LancerX",
     "unitType": "Mounted",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Lancer",
     "movement": 4,
     "strength": 25,
@@ -616,9 +616,9 @@
     "attackSound": "horse"
   },
   {
-    "name": "Anti-Tank Gun",
+    "name": "Anti-Tank GunX",
     "unitType": "Gunpowder",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Anti-Tank Gun",
     "movement": 2,
     "strength": 50,
@@ -653,9 +653,9 @@
     "attackSound": "machinegun"
   },
   {
-    "name": "Helicopter Gunship",
+    "name": "Helicopter GunshipX",
     "unitType": "Helicopter",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Helicopter Gunship",
     "movement": 6,
     "strength": 60,
@@ -682,9 +682,9 @@
     "attackSound": "machinegun"
   },
   {
-    "name": "Horseman",
+    "name": "HorsemanX",
     "unitType": "Mounted",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Horseman",
     "movement": 4,
     "strength": 12,
@@ -719,9 +719,9 @@
     "attackSound": "horse"
   },
   {
-    "name": "Chariot Archer",
+    "name": "Chariot ArcherX",
     "unitType": "Archery",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Chariot Archer",
     "movement": 4,
     "strength": 6,
@@ -753,9 +753,9 @@
     "attackSound": "arrow"
   },
   {
-    "name": "Knight",
+    "name": "KnightX",
     "unitType": "Mounted",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Knight",
     "movement": 4,
     "strength": 20,
@@ -789,9 +789,9 @@
     "attackSound": "horse"
   },
   {
-    "name": "Cavalry",
+    "name": "CavalryX",
     "unitType": "Mounted",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Cavalry",
     "movement": 4,
     "strength": 34,
@@ -825,9 +825,9 @@
     "attackSound": "horse"
   },
   {
-    "name": "Landship",
+    "name": "LandshipX",
     "unitType": "Armored",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Landship",
     "movement": 4,
     "strength": 60,
@@ -855,9 +855,9 @@
     "attackSound": "tankshot"
   },
   {
-    "name": "Tank",
+    "name": "TankX",
     "unitType": "Armored",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Tank",
     "movement": 5,
     "strength": 70,
@@ -884,9 +884,9 @@
     "attackSound": "tankshot"
   },
   {
-    "name": "Modern Armor",
+    "name": "Modern ArmorX",
     "unitType": "Armored",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Modern Armor",
     "movement": 5,
     "strength": 100,
@@ -913,9 +913,9 @@
     "attackSound": "tankshot"
   },
   {
-    "name": "Giant Death Robot",
+    "name": "Giant Death RobotX",
     "unitType": "Armored",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Giant Death Robot",
     "movement": 5,
     "strength": 150,
@@ -942,9 +942,9 @@
     "attackSound": "gdrAttack"
   },
   {
-    "name": "Catapult",
+    "name": "CatapultX",
     "unitType": "Siege",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Catapult",
     "movement": 2,
     "strength": 7,
@@ -978,9 +978,9 @@
     "attackSound": "throw"
   },
   {
-    "name": "Trebuchet",
+    "name": "TrebuchetX",
     "unitType": "Siege",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Trebuchet",
     "movement": 2,
     "strength": 12,
@@ -1013,9 +1013,9 @@
     "attackSound": "throw"
   },
   {
-    "name": "Cannon",
+    "name": "CannonX",
     "unitType": "Siege",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Cannon",
     "movement": 2,
     "strength": 14,
@@ -1048,9 +1048,9 @@
     "attackSound": "cannon"
   },
   {
-    "name": "Artillery",
+    "name": "ArtilleryX",
     "unitType": "Siege",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Artillery",
     "movement": 2,
     "strength": 21,
@@ -1083,9 +1083,9 @@
     "attackSound": "artillery"
   },
   {
-    "name": "Rocket Artillery",
+    "name": "Rocket ArtilleryX",
     "unitType": "Siege",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Rocket Artillery",
     "movement": 2,
     "strength": 45,
@@ -1118,9 +1118,9 @@
     "attackSound": "artillery"
   },
   {
-    "name": "Trireme",
+    "name": "TriremeX",
     "unitType": "Melee Water",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Trireme",
     "movement": 4,
     "strength": 10,
@@ -1147,9 +1147,9 @@
     "attackSound": "nonmetalhit"
   },
   {
-    "name": "Caravel",
+    "name": "CaravelX",
     "unitType": "Melee Water",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Caravel",
     "movement": 4,
     "strength": 20,
@@ -1178,9 +1178,9 @@
     "attackSound": "cannon"
   },
   {
-    "name": "Ironclad",
+    "name": "IroncladX",
     "unitType": "Melee Water",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Ironclad",
     "movement": 3,
     "strength": 45,
@@ -1209,9 +1209,9 @@
     "attackSound": "shipguns"
   },
   {
-    "name": "Privateer",
+    "name": "PrivateerX",
     "unitType": "Melee Water",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Privateer",
     "movement": 5,
     "strength": 25,
@@ -1237,9 +1237,9 @@
     "attackSound": "cannon"
   },
   {
-    "name": "Destroyer",
+    "name": "DestroyerX",
     "unitType": "Melee Water",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Destroyer",
     "movement": 6,
     "strength": 55,
@@ -1269,9 +1269,9 @@
     "attackSound": "shipguns"
   },
   {
-    "name": "Galleass",
+    "name": "GalleassX",
     "unitType": "Ranged Water",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Galleass",
     "movement": 3,
     "strength": 16,
@@ -1300,9 +1300,9 @@
     "attackSound": "arrow"
   },
   {
-    "name": "Frigate",
+    "name": "FrigateX",
     "unitType": "Ranged Water",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Frigate",
     "movement": 5,
     "strength": 25,
@@ -1330,9 +1330,9 @@
     "attackSound": "cannon"
   },
   {
-    "name": "Battleship",
+    "name": "BattleshipX",
     "unitType": "Ranged Water",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Battleship",
     "movement": 5,
     "strength": 55,
@@ -1361,9 +1361,9 @@
     "attackSound": "shipguns"
   },
   {
-    "name": "Submarine",
+    "name": "SubmarineX",
     "unitType": "Submarine",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Submarine",
     "movement": 5,
     "strength": 35,
@@ -1386,9 +1386,9 @@
     "attackSound": "torpedo"
   },
   {
-    "name": "Nuclear Submarine",
+    "name": "Nuclear SubmarineX",
     "unitType": "Submarine",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Nuclear Submarine",
     "movement": 6,
     "strength": 50,
@@ -1413,9 +1413,9 @@
     "attackSound": "torpedo"
   },
   {
-    "name": "Triplane",
+    "name": "TriplaneX",
     "unitType": "Fighter",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Triplane",
     "movement": 1,
     "strength": 35,
@@ -1451,9 +1451,9 @@
     "attackSound": "machinegun"
   },
   {
-    "name": "Fighter",
+    "name": "FighterX",
     "unitType": "Fighter",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Fighter",
     "movement": 1,
     "strength": 45,
@@ -1488,9 +1488,9 @@
     "attackSound": "machinegun"
   },
   {
-    "name": "Jet Fighter",
+    "name": "Jet FighterX",
     "unitType": "Fighter",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Jet Fighter",
     "movement": 1,
     "strength": 75,
@@ -1525,9 +1525,9 @@
     "attackSound": "jetgun"
   },
   {
-    "name": "Great War Bomber",
+    "name": "Great War BomberX",
     "unitType": "Bomber",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Great War Bomber",
     "movement": 1,
     "strength": 50,
@@ -1557,9 +1557,9 @@
     "attackSound": "bombing"
   },
   {
-    "name": "Bomber",
+    "name": "BomberX",
     "unitType": "Bomber",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Bomber",
     "movement": 1,
     "strength": 65,
@@ -1588,9 +1588,9 @@
     "attackSound": "bombing"
   },
   {
-    "name": "Stealth Bomber",
+    "name": "Stealth BomberX",
     "unitType": "Bomber",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Stealth Bomber",
     "movement": 2,
     "strength": 85,
@@ -1625,9 +1625,9 @@
     "attackSound": "bombing"
   },
   {
-    "name": "Carrier",
+    "name": "CarrierX",
     "unitType": "Aircraft Carrier",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Carrier",
     "movement": 5,
     "strength": 40,
@@ -1648,9 +1648,9 @@
     ]
   },
   {
-    "name": "Anti-Aircraft Gun",
+    "name": "Anti-Aircraft GunX",
     "unitType": "Gunpowder",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Anti-Aircraft Gun",
     "movement": 2,
     "interceptRange": 2,
@@ -1689,9 +1689,9 @@
     "attackSound": "machinegun"
   },
   {
-    "name": "Mobile SAM",
+    "name": "Mobile SAMX",
     "unitType": "Gunpowder",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Mobile SAM",
     "movement": 3,
     "interceptRange": 2,
@@ -1729,9 +1729,9 @@
     "attackSound": "missile"
   },
   {
-    "name": "Marine",
+    "name": "MarineX",
     "unitType": "Gunpowder",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Marine",
     "movement": 2,
     "strength": 65,
@@ -1767,9 +1767,9 @@
     "attackSound": "shot"
   },
   {
-    "name": "Paratrooper",
+    "name": "ParatrooperX",
     "unitType": "Gunpowder",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Paratrooper",
     "movement": 2,
     "strength": 65,
@@ -1804,9 +1804,9 @@
     "attackSound": "shot"
   },
   {
-    "name": "Missile Cruiser",
+    "name": "Missile CruiserX",
     "unitType": "Ranged Water",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Missile Cruiser",
     "movement": 7,
     "strength": 80,
@@ -1839,9 +1839,9 @@
     "attackSound": "shipguns"
   },
   {
-    "name": "Great Artist",
+    "name": "Great ArtistX",
     "unitType": "Civilian",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Great Artist",
     "uniques": [
       "Can start an [8]-turn golden age",
@@ -1854,9 +1854,9 @@
     "movement": 2
   },
   {
-    "name": "Great Scientist",
+    "name": "Great ScientistX",
     "unitType": "Civilian",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Great Scientist",
     "uniques": [
       "Can hurry technology research",
@@ -1869,9 +1869,9 @@
     "movement": 2
   },
   {
-    "name": "Great Merchant",
+    "name": "Great MerchantX",
     "unitType": "Civilian",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Great Merchant",
     "uniques": [
       "Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
@@ -1884,9 +1884,9 @@
     "movement": 2
   },
   {
-    "name": "Great Engineer",
+    "name": "Great EngineerX",
     "unitType": "Civilian",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Great Engineer",
     "uniques": [
       "Can speed up construction of a building",
@@ -1899,9 +1899,9 @@
     "movement": 2
   },
   {
-    "name": "Great Prophet",
+    "name": "Great ProphetX",
     "unitType": "Civilian",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Great Prophet",
     "uniques": [
       "Can construct [Holy site] <if it hasn\u0027t used other actions yet>",
@@ -1922,9 +1922,9 @@
     "religiousStrength": 1000
   },
   {
-    "name": "Great General",
+    "name": "Great GeneralX",
     "unitType": "Civilian",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Great General",
     "uniques": [
       "Can start an [8]-turn golden age",
@@ -1938,9 +1938,9 @@
     "movement": 2
   },
   {
-    "name": "Missionary",
+    "name": "MissionaryX",
     "unitType": "Civilian",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Missionary",
     "uniques": [
       "Can [Spread Religion] [2] times",
@@ -1956,9 +1956,9 @@
     "religiousStrength": 1000
   },
   {
-    "name": "Inquisitor",
+    "name": "InquisitorX",
     "unitType": "Civilian",
-    "uniqueTo": "Polynesia",
+    "uniqueTo": "Loner",
     "replaces": "Inquisitor",
     "uniques": [
       "Prevents spreading of religion to the city it is next to",
