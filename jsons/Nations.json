@@ -40,7 +40,7 @@
       "Triple quantity of [Iron] produced",
       "Triple quantity of [Oil] produced",
       "Triple quantity of [Uranium] produced",
-      "Damage is ignored when determining unit Strength <for [All] units>",
+      "Damage is ignored when determining unit Strength",
       "May choose [4] additional belief(s) of any type when [founding] a religion",
       "May choose [4] additional belief(s) of any type when [enhancing] a religion",
       "Earn [100]% of killed [Military] unit's [Strength] as [Culture]",
@@ -66,8 +66,7 @@
       "[-100]% maintenance cost for buildings <in all cities>",
       "[-100]% tile improvement construction time",
       "No Maintenance costs for improvements in [All] tiles",
-      "[All] units gain [-100]% more Experience from combat",
-      "[0]% XP from combat <for [Military] units>",
+      "[0]% XP gained from combat",
       "[+10]% combat bonus for units fighting in [Land]",
       "\"Borrows\" city names from other civilizations in the game"
     ],
