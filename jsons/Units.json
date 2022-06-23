@@ -2,6 +2,8 @@
   {
     "name": "Worker",
     "unitType": "Civilian",
+    "uniqueTo": "Polynesia",
+    "replaces": "Worker",
     "movement": 2,
     "uniques": [
       "Can build [Land] improvements on tiles",
@@ -12,6 +14,8 @@
   {
     "name": "Settler",
     "unitType": "Civilian",
+    "uniqueTo": "Polynesia",
+    "replaces": "Settler",
     "movement": 2,
     "cost": 106,
     "uniques": [
@@ -25,11 +29,13 @@
   {
     "name": "Work Boats",
     "unitType": "Civilian Water",
+    "uniqueTo": "Polynesia",
+    "replaces": "Work Boats",
     "movement": 4,
     "cost": 30,
     "requiredTech": "Sailing",
     "uniques": [
-      "Cannot enter ocean tiles \u003cbefore discovering [Astronomy]\u003e",
+      "Cannot enter ocean tiles <before discovering [Astronomy]>",
       "May create improvements on water resources",
       "Uncapturable",
       "Invisible to non-adjacent units <after discovering [Stealth]>"
@@ -38,6 +44,8 @@
   {
     "name": "Scout",
     "unitType": "Scout",
+    "uniqueTo": "Polynesia",
+    "replaces": "Scout",
     "movement": 2,
     "strength": 5,
     "cost": 25,
@@ -61,6 +69,8 @@
   {
     "name": "Warrior",
     "unitType": "Sword",
+    "uniqueTo": "Polynesia",
+    "replaces": "Warrior",
     "movement": 2,
     "strength": 8,
     "cost": 40,
@@ -101,6 +111,8 @@
   {
     "name": "Swordsman",
     "unitType": "Sword",
+    "uniqueTo": "Polynesia",
+    "replaces": "Swordsman",
     "movement": 2,
     "strength": 14,
     "cost": 75,
@@ -136,6 +148,8 @@
   {
     "name": "Longswordsman",
     "unitType": "Sword",
+    "uniqueTo": "Polynesia",
+    "replaces": "Longswordsman",
     "movement": 2,
     "strength": 21,
     "cost": 120,
@@ -170,6 +184,8 @@
   {
     "name": "Musketman",
     "unitType": "Gunpowder",
+    "uniqueTo": "Polynesia",
+    "replaces": "Musketman",
     "movement": 2,
     "strength": 24,
     "cost": 150,
@@ -203,6 +219,8 @@
   {
     "name": "Rifleman",
     "unitType": "Gunpowder",
+    "uniqueTo": "Polynesia",
+    "replaces": "Rifleman",
     "movement": 2,
     "strength": 34,
     "cost": 225,
@@ -236,6 +254,8 @@
   {
     "name": "Great War Infantry",
     "unitType": "Gunpowder",
+    "uniqueTo": "Polynesia",
+    "replaces": "Great War Infantry",
     "movement": 2,
     "strength": 50,
     "cost": 320,
@@ -269,6 +289,8 @@
   {
     "name": "Infantry",
     "unitType": "Gunpowder",
+    "uniqueTo": "Polynesia",
+    "replaces": "Infantry",
     "movement": 2,
     "strength": 70,
     "cost": 375,
@@ -302,6 +324,8 @@
   {
     "name": "Archer",
     "unitType": "Archery",
+    "uniqueTo": "Polynesia",
+    "replaces": "Archer",
     "movement": 2,
     "strength": 5,
     "rangedStrength": 7,
@@ -329,6 +353,8 @@
   {
     "name": "Composite Bowman",
     "unitType": "Archery",
+    "uniqueTo": "Polynesia",
+    "replaces": "Composite Bowman",
     "movement": 2,
     "strength": 7,
     "rangedStrength": 11,
@@ -356,6 +382,8 @@
   {
     "name": "Crossbowman",
     "unitType": "Archery",
+    "uniqueTo": "Polynesia",
+    "replaces": "Crossbowman",
     "movement": 2,
     "strength": 13,
     "rangedStrength": 18,
@@ -383,6 +411,8 @@
   {
     "name": "Gatling Gun",
     "unitType": "Ranged Gunpowder",
+    "uniqueTo": "Polynesia",
+    "replaces": "Gatling Gun",
     "range": 1,
     "movement": 2,
     "strength": 30,
@@ -411,6 +441,8 @@
   {
     "name": "Machine Gun",
     "unitType": "Ranged Gunpowder",
+    "uniqueTo": "Polynesia",
+    "replaces": "Machine Gun",
     "range": 1,
     "movement": 2,
     "strength": 60,
@@ -438,6 +470,8 @@
   {
     "name": "Mechanized Infantry",
     "unitType": "Gunpowder",
+    "uniqueTo": "Polynesia",
+    "replaces": "Mechanized Infantry",
     "movement": 3,
     "strength": 90,
     "cost": 375,
@@ -472,6 +506,8 @@
   {
     "name": "Spearman",
     "unitType": "Sword",
+    "uniqueTo": "Polynesia",
+    "replaces": "Spearman",
     "movement": 2,
     "strength": 11,
     "cost": 56,
@@ -479,7 +515,7 @@
     "obsoleteTech": "Civil Service",
     "upgradesTo": "Pikeman",
     "uniques": [
-      "[+50]% Strength \u003cvs [Mounted] units\u003e"
+      "[+50]% Strength <vs [Mounted] units>"
     ],
     "promotions":[
       "Ambush I",
@@ -508,12 +544,14 @@
   {
     "name": "Pikeman",
     "unitType": "Sword",
+    "uniqueTo": "Polynesia",
+    "replaces": "Pikeman",
     "movement": 2,
     "strength": 16,
     "cost": 90,
     "requiredTech": "Civil Service",
     "uniques": [
-      "[+50]% Strength \u003cvs [Mounted] units\u003e"
+      "[+50]% Strength <vs [Mounted] units>"
     ],
     "upgradesTo": "Lancer",
     "obsoleteTech": "Gunpowder",
@@ -544,6 +582,8 @@
   {
     "name": "Lancer",
     "unitType": "Mounted",
+    "uniqueTo": "Polynesia",
+    "replaces": "Lancer",
     "movement": 4,
     "strength": 25,
     "cost": 185,
@@ -552,7 +592,7 @@
     "uniques": [
       "Can move after attacking",
       "No defensive terrain bonus",
-      "[-33]% Strength \u003cvs cities\u003e"
+      "[-33]% Strength <vs cities>"
     ],
     "promotions": [
       "Blitz",
@@ -578,13 +618,15 @@
   {
     "name": "Anti-Tank Gun",
     "unitType": "Gunpowder",
+    "uniqueTo": "Polynesia",
+    "replaces": "Anti-Tank Gun",
     "movement": 2,
     "strength": 50,
     "cost": 300,
     "requiredTech": "Combined Arms",
     "upgradesTo": "Helicopter Gunship",
     "uniques": [
-      "[+100]% Strength \u003cvs [Armored] units\u003e"
+      "[+100]% Strength <vs [Armored] units>"
     ],
     "promotions":[
       "Ambush I",
@@ -613,13 +655,15 @@
   {
     "name": "Helicopter Gunship",
     "unitType": "Helicopter",
+    "uniqueTo": "Polynesia",
+    "replaces": "Helicopter Gunship",
     "movement": 6,
     "strength": 60,
     "cost": 425,
     "requiredTech": "Computers",
     "requiredResource": "Aluminum",
     "uniques": [
-      "[+100]% Strength \u003cvs [Armored] units\u003e",
+      "[+100]% Strength <vs [Armored] units>",
       "No defensive terrain bonus",
       "Can move after attacking",
       "All tiles cost 1 movement",
@@ -640,6 +684,8 @@
   {
     "name": "Horseman",
     "unitType": "Mounted",
+    "uniqueTo": "Polynesia",
+    "replaces": "Horseman",
     "movement": 4,
     "strength": 12,
     "cost": 75,
@@ -650,7 +696,7 @@
     "uniques": [
       "Can move after attacking",
       "No defensive terrain bonus",
-      "[-33]% Strength \u003cvs cities\u003e"
+      "[-33]% Strength <vs cities>"
     ],
     "promotions": [
       "Blitz",
@@ -675,6 +721,8 @@
   {
     "name": "Chariot Archer",
     "unitType": "Archery",
+    "uniqueTo": "Polynesia",
+    "replaces": "Chariot Archer",
     "movement": 4,
     "strength": 6,
     "rangedStrength": 10,
@@ -707,6 +755,8 @@
   {
     "name": "Knight",
     "unitType": "Mounted",
+    "uniqueTo": "Polynesia",
+    "replaces": "Knight",
     "movement": 4,
     "strength": 20,
     "cost": 120,
@@ -717,7 +767,7 @@
     "uniques": [
       "Can move after attacking",
       "No defensive terrain bonus",
-      "[-33]% Strength \u003cvs cities\u003e"
+      "[-33]% Strength <vs cities>"
     ],
     "promotions": [
       "Blitz",
@@ -741,6 +791,8 @@
   {
     "name": "Cavalry",
     "unitType": "Mounted",
+    "uniqueTo": "Polynesia",
+    "replaces": "Cavalry",
     "movement": 4,
     "strength": 34,
     "cost": 225,
@@ -751,7 +803,7 @@
     "uniques": [
       "Can move after attacking",
       "No defensive terrain bonus",
-      "[-33]% Strength \u003cvs cities\u003e"
+      "[-33]% Strength <vs cities>"
     ],
     "promotions": [
       "Blitz",
@@ -775,6 +827,8 @@
   {
     "name": "Landship",
     "unitType": "Armored",
+    "uniqueTo": "Polynesia",
+    "replaces": "Landship",
     "movement": 4,
     "strength": 60,
     "cost": 350,
@@ -803,6 +857,8 @@
   {
     "name": "Tank",
     "unitType": "Armored",
+    "uniqueTo": "Polynesia",
+    "replaces": "Tank",
     "movement": 5,
     "strength": 70,
     "cost": 375,
@@ -830,6 +886,8 @@
   {
     "name": "Modern Armor",
     "unitType": "Armored",
+    "uniqueTo": "Polynesia",
+    "replaces": "Modern Armor",
     "movement": 5,
     "strength": 100,
     "cost": 425,
@@ -857,6 +915,8 @@
   {
     "name": "Giant Death Robot",
     "unitType": "Armored",
+    "uniqueTo": "Polynesia",
+    "replaces": "Giant Death Robot",
     "movement": 5,
     "strength": 150,
     "cost": 425,
@@ -884,6 +944,8 @@
   {
     "name": "Catapult",
     "unitType": "Siege",
+    "uniqueTo": "Polynesia",
+    "replaces": "Catapult",
     "movement": 2,
     "strength": 7,
     "rangedStrength": 8,
@@ -892,7 +954,7 @@
     "obsoleteTech": "Physics",
     "upgradesTo": "Trebuchet",
     "uniques": [
-      "[+200]% Strength \u003cvs cities\u003e \u003cwhen attacking\u003e",
+      "[+200]% Strength <vs cities> <when attacking>",
       "No defensive terrain bonus",
       "Must set up to ranged attack",
       "[-1] Sight"
@@ -918,6 +980,8 @@
   {
     "name": "Trebuchet",
     "unitType": "Siege",
+    "uniqueTo": "Polynesia",
+    "replaces": "Trebuchet",
     "movement": 2,
     "strength": 12,
     "rangedStrength": 14,
@@ -926,7 +990,7 @@
     "obsoleteTech": "Chemistry",
     "upgradesTo": "Cannon",
     "uniques": [
-      "[+200]% Strength \u003cvs cities\u003e \u003cwhen attacking\u003e",
+      "[+200]% Strength <vs cities> <when attacking>",
       "No defensive terrain bonus",
       "Must set up to ranged attack",
       "[-1] Sight"
@@ -951,6 +1015,8 @@
   {
     "name": "Cannon",
     "unitType": "Siege",
+    "uniqueTo": "Polynesia",
+    "replaces": "Cannon",
     "movement": 2,
     "strength": 14,
     "rangedStrength": 20,
@@ -959,7 +1025,7 @@
     "upgradesTo": "Artillery",
     "obsoleteTech": "Dynamite",
     "uniques": [
-      "[+200]% Strength \u003cvs cities\u003e \u003cwhen attacking\u003e",
+      "[+200]% Strength <vs cities> <when attacking>",
       "No defensive terrain bonus",
       "Must set up to ranged attack",
       "[-1] Sight"
@@ -984,6 +1050,8 @@
   {
     "name": "Artillery",
     "unitType": "Siege",
+    "uniqueTo": "Polynesia",
+    "replaces": "Artillery",
     "movement": 2,
     "strength": 21,
     "rangedStrength": 28,
@@ -992,7 +1060,7 @@
     "requiredTech": "Dynamite",
     "upgradesTo": "Rocket Artillery",
     "uniques": [
-      "[+200]% Strength \u003cvs cities\u003e \u003cwhen attacking\u003e",
+      "[+200]% Strength <vs cities> <when attacking>",
       "No defensive terrain bonus",
       "Must set up to ranged attack",
       "[-1] Sight"
@@ -1017,6 +1085,8 @@
   {
     "name": "Rocket Artillery",
     "unitType": "Siege",
+    "uniqueTo": "Polynesia",
+    "replaces": "Rocket Artillery",
     "movement": 2,
     "strength": 45,
     "rangedStrength": 60,
@@ -1025,7 +1095,7 @@
     "requiredTech": "Rocketry",
     "requiredResource": "Aluminum",
     "uniques": [
-      "[+200]% Strength \u003cvs cities\u003e \u003cwhen attacking\u003e",
+      "[+200]% Strength <vs cities> <when attacking>",
       "No defensive terrain bonus",
       "[-1] Sight",
       "Invisible to non-adjacent units <after discovering [Stealth]>"
@@ -1050,6 +1120,8 @@
   {
     "name": "Trireme",
     "unitType": "Melee Water",
+    "uniqueTo": "Polynesia",
+    "replaces": "Trireme",
     "movement": 4,
     "strength": 10,
     "cost": 45,
@@ -1077,6 +1149,8 @@
   {
     "name": "Caravel",
     "unitType": "Melee Water",
+    "uniqueTo": "Polynesia",
+    "replaces": "Caravel",
     "movement": 4,
     "strength": 20,
     "cost": 120,
@@ -1106,6 +1180,8 @@
   {
     "name": "Ironclad",
     "unitType": "Melee Water",
+    "uniqueTo": "Polynesia",
+    "replaces": "Ironclad",
     "movement": 3,
     "strength": 45,
     "cost": 250,
@@ -1114,7 +1190,7 @@
     "upgradesTo": "Destroyer",
     "obsoleteTech": "Combustion",
     "uniques": [
-      "[+33]% Strength \u003cvs cities\u003e",
+      "[+33]% Strength <vs cities>",
       "Double movement in [Coast]"
     ],
     "promotions": [
@@ -1135,6 +1211,8 @@
   {
     "name": "Privateer",
     "unitType": "Melee Water",
+    "uniqueTo": "Polynesia",
+    "replaces": "Privateer",
     "movement": 5,
     "strength": 25,
     "cost": 150,
@@ -1161,6 +1239,8 @@
   {
     "name": "Destroyer",
     "unitType": "Melee Water",
+    "uniqueTo": "Polynesia",
+    "replaces": "Destroyer",
     "movement": 6,
     "strength": 55,
     "interceptRange": 2,
@@ -1170,7 +1250,7 @@
       "Can see invisible [Submarine] units",
       "[40]% chance to intercept air attacks",
       "May withdraw before melee ([80]%)",
-      "[+100]% Strength \u003cvs [Submarine] units\u003e",
+      "[+100]% Strength <vs [Submarine] units>",
       "Invisible to non-adjacent units <after discovering [Stealth]>"
     ],
     "promotions": [
@@ -1191,6 +1271,8 @@
   {
     "name": "Galleass",
     "unitType": "Ranged Water",
+    "uniqueTo": "Polynesia",
+    "replaces": "Galleass",
     "movement": 3,
     "strength": 16,
     "rangedStrength": 17,
@@ -1220,6 +1302,8 @@
   {
     "name": "Frigate",
     "unitType": "Ranged Water",
+    "uniqueTo": "Polynesia",
+    "replaces": "Frigate",
     "movement": 5,
     "strength": 25,
     "rangedStrength": 28,
@@ -1248,6 +1332,8 @@
   {
     "name": "Battleship",
     "unitType": "Ranged Water",
+    "uniqueTo": "Polynesia",
+    "replaces": "Battleship",
     "movement": 5,
     "strength": 55,
     "rangedStrength": 55,
@@ -1277,6 +1363,8 @@
   {
     "name": "Submarine",
     "unitType": "Submarine",
+    "uniqueTo": "Polynesia",
+    "replaces": "Submarine",
     "movement": 5,
     "strength": 35,
     "rangedStrength": 60,
@@ -1284,7 +1372,7 @@
     "requiredTech": "Refrigeration",
     "upgradesTo": "Nuclear Submarine",
     "uniques": [
-      "[+75]% Strength \u003cwhen attacking\u003e",
+      "[+75]% Strength <when attacking>",
       "Can only attack [Water] tiles"
     ],
     "promotions": [
@@ -1300,6 +1388,8 @@
   {
     "name": "Nuclear Submarine",
     "unitType": "Submarine",
+    "uniqueTo": "Polynesia",
+    "replaces": "Nuclear Submarine",
     "movement": 6,
     "strength": 50,
     "range": 3,
@@ -1307,7 +1397,7 @@
     "cost": 425,
     "requiredTech": "Telecommunications",
     "uniques": [
-      "[+75]% Strength \u003cwhen attacking\u003e",
+      "[+75]% Strength <when attacking>",
       "Can only attack [Water] tiles",
       "[+1] Sight",
       "Can carry [2] [Missile] units"
@@ -1325,6 +1415,8 @@
   {
     "name": "Triplane",
     "unitType": "Fighter",
+    "uniqueTo": "Polynesia",
+    "replaces": "Triplane",
     "movement": 1,
     "strength": 35,
     "rangedStrength": 35,
@@ -1337,8 +1429,8 @@
     "obsoleteTech": "Radar",
     "uniques": [
       "[50]% chance to intercept air attacks",
-      "[+150]% Strength \u003cvs [Bomber] units\u003e",
-      "[+150]% Strength \u003cvs [Helicopter] units\u003e"
+      "[+150]% Strength <vs [Bomber] units>",
+      "[+150]% Strength <vs [Helicopter] units>"
     ],
     "promotions":[
       "Air Repair",
@@ -1361,6 +1453,8 @@
   {
     "name": "Fighter",
     "unitType": "Fighter",
+    "uniqueTo": "Polynesia",
+    "replaces": "Fighter",
     "movement": 1,
     "strength": 45,
     "rangedStrength": 45,
@@ -1372,8 +1466,8 @@
     "upgradesTo": "Jet Fighter",
     "uniques": [
       "[100]% chance to intercept air attacks",
-      "[+150]% Strength \u003cvs [Bomber] units\u003e",
-      "[+150]% Strength \u003cvs [Helicopter] units\u003e"
+      "[+150]% Strength <vs [Bomber] units>",
+      "[+150]% Strength <vs [Helicopter] units>"
     ],
     "promotions":[
       "Air Repair",
@@ -1396,6 +1490,8 @@
   {
     "name": "Jet Fighter",
     "unitType": "Fighter",
+    "uniqueTo": "Polynesia",
+    "replaces": "Jet Fighter",
     "movement": 1,
     "strength": 75,
     "rangedStrength": 75,
@@ -1406,8 +1502,8 @@
     "requiredResource": "Aluminum",
     "uniques": [
       "[100]% chance to intercept air attacks",
-      "[+150]% Strength \u003cvs [Bomber] units\u003e",
-      "[+150]% Strength \u003cvs [Helicopter] units\u003e",
+      "[+150]% Strength <vs [Bomber] units>",
+      "[+150]% Strength <vs [Helicopter] units>",
       "Invisible to non-adjacent units <after discovering [Stealth]>"
     ],
     "promotions":[
@@ -1431,6 +1527,8 @@
   {
     "name": "Great War Bomber",
     "unitType": "Bomber",
+    "uniqueTo": "Polynesia",
+    "replaces": "Great War Bomber",
     "movement": 1,
     "strength": 50,
     "rangedStrength": 50,
@@ -1461,6 +1559,8 @@
   {
     "name": "Bomber",
     "unitType": "Bomber",
+    "uniqueTo": "Polynesia",
+    "replaces": "Bomber",
     "movement": 1,
     "strength": 65,
     "rangedStrength": 65,
@@ -1490,6 +1590,8 @@
   {
     "name": "Stealth Bomber",
     "unitType": "Bomber",
+    "uniqueTo": "Polynesia",
+    "replaces": "Stealth Bomber",
     "movement": 2,
     "strength": 85,
     "rangedStrength": 85,
@@ -1525,6 +1627,8 @@
   {
     "name": "Carrier",
     "unitType": "Aircraft Carrier",
+    "uniqueTo": "Polynesia",
+    "replaces": "Carrier",
     "movement": 5,
     "strength": 40,
     "cost": 375,
@@ -1546,6 +1650,8 @@
   {
     "name": "Anti-Aircraft Gun",
     "unitType": "Gunpowder",
+    "uniqueTo": "Polynesia",
+    "replaces": "Anti-Aircraft Gun",
     "movement": 2,
     "interceptRange": 2,
     "strength": 50,
@@ -1555,8 +1661,8 @@
     "obsoleteTech": "Rocketry",
     "uniques": [
       "[100]% chance to intercept air attacks",
-      "[+150]% Strength \u003cvs [Air] units\u003e",
-      "[+150]% Strength \u003cvs [Helicopter] units\u003e"
+      "[+150]% Strength <vs [Air] units>",
+      "[+150]% Strength <vs [Helicopter] units>"
     ],
     "promotions":[
      "Ambush I",
@@ -1585,6 +1691,8 @@
   {
     "name": "Mobile SAM",
     "unitType": "Gunpowder",
+    "uniqueTo": "Polynesia",
+    "replaces": "Mobile SAM",
     "movement": 3,
     "interceptRange": 2,
     "strength": 65,
@@ -1592,8 +1700,8 @@
     "requiredTech": "Rocketry",
     "uniques": [
       "[100]% chance to intercept air attacks",
-      "[+150]% Strength \u003cvs [Air] units\u003e",
-      "[+150]% Strength \u003cvs [Helicopter] units\u003e",
+      "[+150]% Strength <vs [Air] units>",
+      "[+150]% Strength <vs [Helicopter] units>",
       "Invisible to non-adjacent units <after discovering [Stealth]>"
     ],
     "promotions":[
@@ -1623,6 +1731,8 @@
   {
     "name": "Marine",
     "unitType": "Gunpowder",
+    "uniqueTo": "Polynesia",
+    "replaces": "Marine",
     "movement": 2,
     "strength": 65,
     "cost": 400,
@@ -1659,6 +1769,8 @@
   {
     "name": "Paratrooper",
     "unitType": "Gunpowder",
+    "uniqueTo": "Polynesia",
+    "replaces": "Paratrooper",
     "movement": 2,
     "strength": 65,
     "cost": 375,
@@ -1694,6 +1806,8 @@
   {
     "name": "Atomic Bomb",
     "unitType": "Atomic Bomber",
+    "uniqueTo": "Polynesia",
+    "replaces": "Atomic Bomb",
     "movement": 1,
     "strength": 150,
     "rangedStrength": 150,
@@ -1706,7 +1820,7 @@
     ],
     "uniques": [
       "Nuclear weapon of Strength [1]",
-      "Only available \u003cif [Manhattan Project] is constructed\u003e",
+      "Only available <if [Manhattan Project] is constructed>",
       "Self-destructs when attacking",
       "Blast radius [2]"
     ],
@@ -1715,6 +1829,8 @@
   {
     "name": "Guided Missile",
     "unitType": "Missile",
+    "uniqueTo": "Polynesia",
+    "replaces": "Guided Missile",
     "movement": 1,
     "strength": 60,
     "rangedStrength": 60,
@@ -1729,6 +1845,8 @@
   {
     "name": "Nuclear Missile",
     "unitType": "Missile",
+    "uniqueTo": "Polynesia",
+    "replaces": "Nuclear Missile",
     "movement": 1,
     "strength": 300,
     "rangedStrength": 300,
@@ -1737,7 +1855,7 @@
     "requiredTech": "Advanced Ballistics",
     "uniques": [
       "Nuclear weapon of Strength [2]",
-      "Only available \u003cif [Manhattan Project] is constructed\u003e",
+      "Only available <if [Manhattan Project] is constructed>",
       "Blast radius [2]",
       "Consumes [2] [Uranium]"
     ],
@@ -1746,6 +1864,8 @@
   {
     "name": "Missile Cruiser",
     "unitType": "Ranged Water",
+    "uniqueTo": "Polynesia",
+    "replaces": "Missile Cruiser",
     "movement": 7,
     "strength": 80,
     "rangedStrength": 100,
@@ -1757,7 +1877,7 @@
       "[100]% chance to intercept air attacks",
       "Can see invisible [Submarine] units",
       "Can carry [3] [Missile] units",
-      "[+100]% Strength \u003cvs [Submarine] units\u003e",
+      "[+100]% Strength <vs [Submarine] units>",
       "Invisible to non-adjacent units <after discovering [Stealth]>"
     ],
     "promotions": [
@@ -1779,6 +1899,8 @@
   {
     "name": "Great Artist",
     "unitType": "Civilian",
+    "uniqueTo": "Polynesia",
+    "replaces": "Great Artist",
     "uniques": [
       "Can start an [8]-turn golden age",
       "Can construct [Landmark]",
@@ -1792,6 +1914,8 @@
   {
     "name": "Great Scientist",
     "unitType": "Civilian",
+    "uniqueTo": "Polynesia",
+    "replaces": "Great Scientist",
     "uniques": [
       "Can hurry technology research",
       "Can construct [Academy]",
@@ -1805,6 +1929,8 @@
   {
     "name": "Great Merchant",
     "unitType": "Civilian",
+    "uniqueTo": "Polynesia",
+    "replaces": "Great Merchant",
     "uniques": [
       "Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
       "Can construct [Customs house]",
@@ -1818,6 +1944,8 @@
   {
     "name": "Great Engineer",
     "unitType": "Civilian",
+    "uniqueTo": "Polynesia",
+    "replaces": "Great Engineer",
     "uniques": [
       "Can speed up construction of a building",
       "Can construct [Manufactory]",
@@ -1831,8 +1959,10 @@
   {
     "name": "Great Prophet",
     "unitType": "Civilian",
+    "uniqueTo": "Polynesia",
+    "replaces": "Great Prophet",
     "uniques": [
-      "Can construct [Holy site] \u003cif it hasn\u0027t used other actions yet\u003e",
+      "Can construct [Holy site] <if it hasn\u0027t used other actions yet>",
       "Can [Spread Religion] [4] times",
       "Removes other religions when spreading religion",
       "May found a religion",
@@ -1852,6 +1982,8 @@
   {
     "name": "Great General",
     "unitType": "Civilian",
+    "uniqueTo": "Polynesia",
+    "replaces": "Great General",
     "uniques": [
       "Can start an [8]-turn golden age",
       "[+15]% Strength bonus for [Military] units within [2] tiles",
@@ -1866,6 +1998,8 @@
   {
     "name": "Missionary",
     "unitType": "Civilian",
+    "uniqueTo": "Polynesia",
+    "replaces": "Missionary",
     "uniques": [
       "Can [Spread Religion] [2] times",
       "May enter foreign tiles without open borders, but loses [250] religious strength each turn it ends there",
@@ -1882,6 +2016,8 @@
   {
     "name": "Inquisitor",
     "unitType": "Civilian",
+    "uniqueTo": "Polynesia",
+    "replaces": "Inquisitor",
     "uniques": [
       "Prevents spreading of religion to the city it is next to",
       "Can [Remove Foreign religions from your own cities] [1] times",
