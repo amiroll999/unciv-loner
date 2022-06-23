@@ -47,7 +47,7 @@
       "Never appears as a Barbarian unit"
     ],
     "promotions": [
-      "Ignore terrain cost"
+      "Ignore terrain cost", "Scouting I", "Scouting II", "Scouting III", "Survivalism I", "Survivalism II", "Survivalism III"
     ],
     "attackSound": "nonmetalhit"
   },
@@ -61,6 +61,13 @@
     "upgradesTo": "Swordsman",
     "uniques": [
       "May upgrade to [Spearman] through ruins-like effects"
+    ],
+    "promotions":[
+      "Amb I",
+      "Amb II",
+      "Amphibious",
+      "Besiege",
+      "Blitz"
     ],
     "attackSound": "nonmetalhit",
     "civilopediaText": [
@@ -78,6 +85,13 @@
     "requiredTech": "Iron Working",
     "upgradesTo": "Longswordsman",
     "obsoleteTech": "Steel",
+    "promotions":[
+      "Amb I",
+      "Amb II",
+      "Amphibious",
+      "Besiege",
+      "Blitz"
+    ],
     "requiredResource": "Iron",
     "hurryCostModifier": 20,
     "attackSound": "metalhit"
@@ -91,6 +105,13 @@
     "requiredTech": "Steel",
     "upgradesTo": "Musketman",
     "obsoleteTech": "Gunpowder",
+    "promotions":[
+      "Amb I",
+      "Amb II",
+      "Amphibious",
+      "Besiege",
+      "Blitz"
+    ],
     "requiredResource": "Iron",
     "attackSound": "metalhit"
   },
@@ -103,6 +124,13 @@
     "requiredTech": "Gunpowder",
     "upgradesTo": "Rifleman",
     "obsoleteTech": "Rifling",
+    "promotions":[
+      "Amb I",
+      "Amb II",
+      "Amphibious",
+      "Besiege",
+      "Blitz"
+    ],
     "attackSound": "shot"
   },
   {
@@ -114,6 +142,13 @@
     "requiredTech": "Rifling",
     "obsoleteTech": "Replaceable Parts",
     "upgradesTo": "Great War Infantry",
+    "promotions":[
+      "Amb I",
+      "Amb II",
+      "Amphibious",
+      "Besiege",
+      "Blitz"
+    ],
     "attackSound": "shot"
   },
   {
@@ -125,6 +160,13 @@
     "requiredTech": "Replaceable Parts",
     "upgradesTo": "Infantry",
     "obsoleteTech": "Plastics",
+    "promotions":[
+      "Amb I",
+      "Amb II",
+      "Amphibious",
+      "Besiege",
+      "Blitz"
+    ],
     "attackSound": "shot"
   },
   {
@@ -136,6 +178,13 @@
     "requiredTech": "Plastics",
     "upgradesTo": "Mechanized Infantry",
     "obsoleteTech": "Mobile Tactics",
+    "promotions":[
+      "Amb I",
+      "Amb II",
+      "Amphibious",
+      "Besiege",
+      "Blitz"
+    ],
     "attackSound": "shot"
   },
   {
@@ -148,6 +197,14 @@
     "requiredTech": "Archery",
     "obsoleteTech": "Construction",
     "upgradesTo": "Composite Bowman",
+    "promotions":[
+      "Accuracy I",
+      "Accuracy II",
+      "Accuracy III",
+      "Barrage I",
+      "Barrage II",
+      "Barrage III"
+    ],
     "attackSound": "arrow"
   },
   {
@@ -160,6 +217,14 @@
     "requiredTech": "Construction",
     "obsoleteTech": "Machinery",
     "upgradesTo": "Crossbowman",
+    "promotions":[
+      "Accuracy I",
+      "Accuracy II",
+      "Accuracy III",
+      "Barrage I",
+      "Barrage II",
+      "Barrage III"
+    ],
     "attackSound": "arrow"
   },
   {
@@ -172,6 +237,14 @@
     "requiredTech": "Machinery",
     "upgradesTo": "Gatling Gun",
     "obsoleteTech": "Industrialization",
+    "promotions":[
+      "Accuracy I",
+      "Accuracy II",
+      "Accuracy III",
+      "Barrage I",
+      "Barrage II",
+      "Barrage III"
+    ],
     "attackSound": "arrow"
   },
   {
@@ -185,6 +258,14 @@
     "requiredTech": "Industrialization",
     "upgradesTo": "Machine Gun",
     "obsoleteTech": "Ballistics",
+    "promotions":[
+      "Accuracy I",
+      "Accuracy II",
+      "Accuracy III",
+      "Barrage I",
+      "Barrage II",
+      "Barrage III"
+    ],
     "attackSound": "machinegun"
   },
   {
@@ -197,6 +278,14 @@
     "cost": 350,
     "requiredTech": "Ballistics",
     "upgradesTo": "Mechanized Infantry",
+    "promotions":[
+      "Accuracy I",
+      "Accuracy II",
+      "Accuracy III",
+      "Barrage I",
+      "Barrage II",
+      "Barrage III"
+    ],
     "attackSound": "machinegun"
   },
   {
@@ -209,6 +298,13 @@
     "uniques": [
       "Never appears as a Barbarian unit",
       "Invisible to non-adjacent units <after discovering [Stealth]>"
+    ],
+    "promotions":[
+      "Amb I",
+      "Amb II",
+      "Amphibious",
+      "Besiege",
+      "Blitz"
     ],
     "attackSound": "tankshot"
   },
@@ -224,6 +320,13 @@
     "uniques": [
       "[+50]% Strength \u003cvs [Mounted] units\u003e"
     ],
+    "promotions":[
+      "Amb I",
+      "Amb II",
+      "Amphibious",
+      "Besiege",
+      "Blitz"
+    ],
     "attackSound": "metalhit"
   },
   {
@@ -238,6 +341,13 @@
     ],
     "upgradesTo": "Lancer",
     "obsoleteTech": "Gunpowder",
+    "promotions":[
+      "Amb I",
+      "Amb II",
+      "Amphibious",
+      "Besiege",
+      "Blitz"
+    ],
     "attackSound": "metalhit"
   },
   {
@@ -255,7 +365,8 @@
       "Never appears as a Barbarian unit"
     ],
     "promotions": [
-      "Formation I"
+      "Blitz",
+      "Charge"
     ],
     "upgradesTo": "Anti-Tank Gun",
     "obsoleteTech": "Combined Arms",
@@ -272,6 +383,13 @@
     "uniques": [
       "[+100]% Strength \u003cvs [Armored] units\u003e",
       "Never appears as a Barbarian unit"
+    ],
+    "promotions":[
+      "Amb I",
+      "Amb II",
+      "Amphibious",
+      "Besiege",
+      "Blitz"
     ],
     "attackSound": "machinegun"
   },
@@ -293,6 +411,11 @@
       "Never appears as a Barbarian unit",
       "Invisible to non-adjacent units <after discovering [Stealth]>"
     ],
+    "promotions":[
+      "Air Repair",
+      "Anti-Armor I",
+      "Anti-Armor II"
+    ],
     "attackSound": "machinegun"
   },
   {
@@ -309,6 +432,10 @@
       "Can move after attacking",
       "No defensive terrain bonus",
       "[-33]% Strength \u003cvs cities\u003e"
+    ],
+    "promotions": [
+      "Blitz",
+      "Charge"
     ],
     "hurryCostModifier": 20,
     "attackSound": "horse"
@@ -329,6 +456,14 @@
       "Rough terrain penalty",
       "Never appears as a Barbarian unit"
     ],
+    "promotions":[
+      "Accuracy I",
+      "Accuracy II",
+      "Accuracy III",
+      "Barrage I",
+      "Barrage II",
+      "Barrage III"
+    ],
     "attackSound": "arrow"
   },
   {
@@ -346,6 +481,10 @@
       "No defensive terrain bonus",
       "[-33]% Strength \u003cvs cities\u003e",
       "Never appears as a Barbarian unit"
+    ],
+    "promotions": [
+      "Blitz",
+      "Charge"
     ],
     "attackSound": "horse"
   },
@@ -365,6 +504,10 @@
       "[-33]% Strength \u003cvs cities\u003e",
       "Never appears as a Barbarian unit"
     ],
+    "promotions": [
+      "Blitz",
+      "Charge"
+    ],
     "attackSound": "horse"
   },
   {
@@ -382,6 +525,10 @@
       "No defensive terrain bonus",
       "Never appears as a Barbarian unit"
     ],
+    "promotions": [
+      "Blitz",
+      "Charge"
+    ],
     "attackSound": "tankshot"
   },
   {
@@ -397,6 +544,10 @@
       "Can move after attacking",
       "No defensive terrain bonus",
       "Never appears as a Barbarian unit"
+    ],
+    "promotions": [
+      "Blitz",
+      "Charge"
     ],
     "attackSound": "tankshot"
   },
@@ -414,6 +565,10 @@
       "No defensive terrain bonus",
       "Never appears as a Barbarian unit"
     ],
+    "promotions": [
+      "Blitz",
+      "Charge"
+    ],
     "attackSound": "tankshot"
   },
   {
@@ -429,6 +584,10 @@
       "No defensive terrain bonus",
       "Never appears as a Barbarian unit",
       "Invisible to non-adjacent units <after discovering [Stealth]>"
+    ],
+    "promotions": [
+      "Blitz",
+      "Charge"
     ],
     "attackSound": "gdrAttack"
   },
@@ -448,6 +607,14 @@
       "Must set up to ranged attack",
       "[-1] Sight",
       "Never appears as a Barbarian unit"
+    ],
+    "promotions":[
+      "Accuracy I",
+      "Accuracy II",
+      "Accuracy III",
+      "Barrage I",
+      "Barrage II",
+      "Barrage III"
     ],
     "hurryCostModifier": 20,
     "attackSound": "throw"
@@ -469,6 +636,14 @@
       "[-1] Sight",
       "Never appears as a Barbarian unit"
     ],
+    "promotions":[
+      "Accuracy I",
+      "Accuracy II",
+      "Accuracy III",
+      "Barrage I",
+      "Barrage II",
+      "Barrage III"
+    ],
     "attackSound": "throw"
   },
   {
@@ -487,6 +662,14 @@
       "Must set up to ranged attack",
       "[-1] Sight",
       "Never appears as a Barbarian unit"
+    ],
+    "promotions":[
+      "Accuracy I",
+      "Accuracy II",
+      "Accuracy III",
+      "Barrage I",
+      "Barrage II",
+      "Barrage III"
     ],
     "attackSound": "cannon"
   },
@@ -507,8 +690,13 @@
       "[-1] Sight",
       "Never appears as a Barbarian unit"
     ],
-    "promotions": [
-      "Indirect Fire"
+    "promotions":[
+      "Accuracy I",
+      "Accuracy II",
+      "Accuracy III",
+      "Barrage I",
+      "Barrage II",
+      "Barrage III"
     ],
     "attackSound": "artillery"
   },
@@ -529,8 +717,13 @@
       "Never appears as a Barbarian unit",
       "Invisible to non-adjacent units <after discovering [Stealth]>"
     ],
-    "promotions": [
-      "Indirect Fire"
+    "promotions":[
+      "Accuracy I",
+      "Accuracy II",
+      "Accuracy III",
+      "Barrage I",
+      "Barrage II",
+      "Barrage III"
     ],
     "attackSound": "artillery"
   },
@@ -547,6 +740,14 @@
     ],
     "upgradesTo": "Caravel",
     "obsoleteTech": "Astronomy",
+    "promotions": [
+      "Boarding Party I",
+      "Boarding Party II",
+      "Boarding Party III",
+      "Coastal Raiders I",
+      "Coastal Raiders II",
+      "Coastal Raiders III"
+    ],
     "attackSound": "nonmetalhit"
   },
   {
@@ -563,6 +764,14 @@
       "May withdraw before melee ([80]%)"
     ],
     "hurryCostModifier": 30,
+    "promotions": [
+      "Boarding Party I",
+      "Boarding Party II",
+      "Boarding Party III",
+      "Coastal Raiders I",
+      "Coastal Raiders II",
+      "Coastal Raiders III"
+    ],
     "attackSound": "cannon"
   },
   {
@@ -580,6 +789,14 @@
       "Double movement in [Coast]",
       "Never appears as a Barbarian unit"
     ],
+    "promotions": [
+      "Boarding Party I",
+      "Boarding Party II",
+      "Boarding Party III",
+      "Coastal Raiders I",
+      "Coastal Raiders II",
+      "Coastal Raiders III"
+    ],
     "attackSound": "shipguns"
   },
   {
@@ -590,11 +807,16 @@
     "cost": 150,
     "requiredTech": "Navigation",
     "upgradesTo": "Destroyer",
-    "promotions": [
-      "Coastal Raider I"
-    ],
     "uniques": [
       "May capture killed [Water] units"
+    ],
+    "promotions": [
+      "Boarding Party I",
+      "Boarding Party II",
+      "Boarding Party III",
+      "Coastal Raiders I",
+      "Coastal Raiders II",
+      "Coastal Raiders III"
     ],
     "attackSound": "cannon"
   },
@@ -613,6 +835,14 @@
       "[+100]% Strength \u003cvs [Submarine] units\u003e",
       "Invisible to non-adjacent units <after discovering [Stealth]>"
     ],
+    "promotions": [
+      "Boarding Party I",
+      "Boarding Party II",
+      "Boarding Party III",
+      "Coastal Raiders I",
+      "Coastal Raiders II",
+      "Coastal Raiders III"
+    ],
     "attackSound": "shipguns"
   },
   {
@@ -628,6 +858,11 @@
     "uniques": [
       "Cannot enter ocean tiles"
     ],
+    "promotions": [
+      "Bombardment I",
+      "Bombardment II",
+      "Bombardment III"
+    ],
     "attackSound": "arrow"
   },
   {
@@ -642,6 +877,11 @@
     "obsoleteTech": "Electronics",
     "upgradesTo": "Battleship",
     "hurryCostModifier": 20,
+    "promotions": [
+      "Bombardment I",
+      "Bombardment II",
+      "Bombardment III"
+    ],
     "attackSound": "cannon"
   },
   {
@@ -659,7 +899,9 @@
       "Invisible to non-adjacent units <after discovering [Stealth]>"
     ],
     "promotions": [
-      "Indirect Fire"
+      "Bombardment I",
+      "Bombardment II",
+      "Bombardment III"
     ],
     "attackSound": "shipguns"
   },
@@ -715,6 +957,16 @@
       "[+150]% Strength \u003cvs [Bomber] units\u003e",
       "[+150]% Strength \u003cvs [Helicopter] units\u003e"
     ],
+    "promotions":[
+      "Air Repair",
+      "Air Targeting I",
+      "Air Targeting II",
+      "Amb I",
+      "Amb II",
+      "Bombardment I",
+      "Bombardment II",
+      "Bombardment III"
+    ],
     "attackSound": "machinegun"
   },
   {
@@ -733,6 +985,16 @@
       "[100]% chance to intercept air attacks",
       "[+150]% Strength \u003cvs [Bomber] units\u003e",
       "[+150]% Strength \u003cvs [Helicopter] units\u003e"
+    ],
+    "promotions":[
+      "Air Repair",
+      "Air Targeting I",
+      "Air Targeting II",
+      "Amb I",
+      "Amb II",
+      "Bombardment I",
+      "Bombardment II",
+      "Bombardment III"
     ],
     "attackSound": "machinegun"
   },
@@ -753,6 +1015,16 @@
       "[+150]% Strength \u003cvs [Helicopter] units\u003e",
       "Invisible to non-adjacent units <after discovering [Stealth]>"
     ],
+    "promotions":[
+      "Air Repair",
+      "Air Targeting I",
+      "Air Targeting II",
+      "Amb I",
+      "Amb II",
+      "Bombardment I",
+      "Bombardment II",
+      "Bombardment III"
+    ],
     "attackSound": "jetgun"
   },
   {
@@ -767,6 +1039,16 @@
     "requiredResource": "Oil",
     "upgradesTo": "Bomber",
     "obsoleteTech": "Radar",
+    "promotions":[
+      "Air Repair",
+      "Air Targeting I",
+      "Air Targeting II",
+      "Amb I",
+      "Amb II",
+      "Bombardment I",
+      "Bombardment II",
+      "Bombardment III"
+    ],
     "attackSound": "bombing"
   },
   {
@@ -780,6 +1062,16 @@
     "requiredTech": "Radar",
     "requiredResource": "Oil",
     "upgradesTo": "Stealth Bomber",
+    "promotions":[
+      "Air Repair",
+      "Air Targeting I",
+      "Air Targeting II",
+      "Amb I",
+      "Amb II",
+      "Bombardment I",
+      "Bombardment II",
+      "Bombardment III"
+    ],
     "attackSound": "bombing"
   },
   {
@@ -799,6 +1091,16 @@
       "Can see over obstacles",
       "Invisible to non-adjacent units"
     ],
+    "promotions":[
+     "Air Repair",
+     "Air Targeting I",
+     "Air Targeting II",
+     "Amb I",
+     "Amb II",
+      "Bombardment I",
+      "Bombardment II",
+      "Bombardment III"
+    ],
     "attackSound": "bombing"
   },
   {
@@ -808,6 +1110,11 @@
     "strength": 40,
     "cost": 375,
     "requiredTech": "Electronics",
+    "promotions": [
+      "Armor Plating I",
+      "Armor Plating II",
+      "Armor Plating III"
+    ]
     "uniques": [
       "Cannot attack",
       "Can carry [2] [Aircraft] units",
@@ -830,6 +1137,13 @@
       "[+150]% Strength \u003cvs [Helicopter] units\u003e",
       "Never appears as a Barbarian unit"
     ],
+    "promotions":[
+     "Amb I",
+     "Amb II",
+     "Amphibious",
+      "Besiege",
+      "Blitz"
+    ],
     "attackSound": "machinegun"
   },
   {
@@ -847,6 +1161,13 @@
       "Never appears as a Barbarian unit",
       "Invisible to non-adjacent units <after discovering [Stealth]>"
     ],
+    "promotions":[
+      "Amb I",
+      "Amb II",
+      "Amphibious",
+      "Besiege",
+      "Blitz"
+    ],
     "attackSound": "missile"
   },
   {
@@ -857,7 +1178,11 @@
     "cost": 400,
     "requiredTech": "Pharmaceuticals",
     "promotions": [
-      "Amphibious"
+      "Amb I",
+      "Amb II",
+      "Amphibious",
+      "Besiege",
+      "Blitz"
     ],
     "uniques": [
       "Normal vision when embarked",
@@ -877,6 +1202,13 @@
       "May Paradrop up to [5] tiles from inside friendly territory",
       "Never appears as a Barbarian unit",
       "Invisible to non-adjacent units <after discovering [Stealth]>"
+    ],
+    "promotions":[
+      "Amb I",
+      "Amb II",
+      "Amphibious",
+      "Besiege",
+      "Blitz"
     ],
     "attackSound": "shot"
   },
@@ -951,7 +1283,9 @@
       "Invisible to non-adjacent units <after discovering [Stealth]>"
     ],
     "promotions": [
-      "Indirect Fire"
+      "Bombardment I",
+      "Bombardment II",
+      "Bombardment III"
     ],
     "attackSound": "shipguns"
   },
