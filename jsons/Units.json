@@ -1804,64 +1804,6 @@
     "attackSound": "shot"
   },
   {
-    "name": "Atomic Bomb",
-    "unitType": "Atomic Bomber",
-    "uniqueTo": "Polynesia",
-    "replaces": "Atomic Bomb",
-    "movement": 1,
-    "strength": 150,
-    "rangedStrength": 150,
-    "range": 10,
-    "cost": 600,
-    "requiredTech": "Nuclear Fission",
-    "requiredResource": "Uranium",
-    "promotions": [
-      "Evasion"
-    ],
-    "uniques": [
-      "Nuclear weapon of Strength [1]",
-      "Only available <if [Manhattan Project] is constructed>",
-      "Self-destructs when attacking",
-      "Blast radius [2]"
-    ],
-    "attackSound": "nuke"
-  },
-  {
-    "name": "Guided Missile",
-    "unitType": "Missile",
-    "uniqueTo": "Polynesia",
-    "replaces": "Guided Missile",
-    "movement": 1,
-    "strength": 60,
-    "rangedStrength": 60,
-    "range": 8,
-    "cost": 150,
-    "requiredTech": "Advanced Ballistics",
-    "uniques": [
-      "[-100]% maintenance costs"
-    ],
-    "attackSound": "missile"
-  },
-  {
-    "name": "Nuclear Missile",
-    "unitType": "Missile",
-    "uniqueTo": "Polynesia",
-    "replaces": "Nuclear Missile",
-    "movement": 1,
-    "strength": 300,
-    "rangedStrength": 300,
-    "range": 12,
-    "cost": 1000,
-    "requiredTech": "Advanced Ballistics",
-    "uniques": [
-      "Nuclear weapon of Strength [2]",
-      "Only available <if [Manhattan Project] is constructed>",
-      "Blast radius [2]",
-      "Consumes [2] [Uranium]"
-    ],
-    "attackSound": "nuke"
-  },
-  {
     "name": "Missile Cruiser",
     "unitType": "Ranged Water",
     "uniqueTo": "Polynesia",
