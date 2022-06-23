@@ -60,9 +60,10 @@
       "[+4 Food, +4 Production, +4 Gold] from every [Fallout]",
       "[+10]% Strength <within [10] tiles of a [Mountain]>",
       "[+200]% [Production] [in all cities]",
+      "[+200]% [Food] [in all cities]",
       "[+100]% [Science] [in all cities]",
       "[+50]% [Culture] [in all cities]",
-      "[-100]% XP from combat <for [All] units>",
+      "[0]% XP from combat <for [Military] units>",
       "[+10]% combat bonus for units fighting in [Land]",
       "\"Borrows\" city names from other civilizations in the game"
     ],
