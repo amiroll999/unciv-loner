@@ -136,6 +136,67 @@
     "attackSound": "shot"
   },
   {
+    "name": "Archer",
+    "unitType": "Archery",
+    "movement": 2,
+    "strength": 5,
+    "rangedStrength": 7,
+    "cost": 40,
+    "requiredTech": "Archery",
+    "obsoleteTech": "Construction",
+    "upgradesTo": "Composite Bowman",
+    "attackSound": "arrow"
+  },
+  {
+    "name": "Composite Bowman",
+    "unitType": "Archery",
+    "movement": 2,
+    "strength": 7,
+    "rangedStrength": 11,
+    "cost": 75,
+    "requiredTech": "Construction",
+    "obsoleteTech": "Machinery",
+    "upgradesTo": "Crossbowman",
+    "attackSound": "arrow"
+  },
+  {
+    "name": "Crossbowman",
+    "unitType": "Archery",
+    "movement": 2,
+    "strength": 13,
+    "rangedStrength": 18,
+    "cost": 120,
+    "requiredTech": "Machinery",
+    "upgradesTo": "Gatling Gun",
+    "obsoleteTech": "Industrialization",
+    "attackSound": "arrow"
+  },
+  {
+    "name": "Gatling Gun",
+    "unitType": "Ranged Gunpowder",
+    "range": 1,
+    "movement": 2,
+    "strength": 30,
+    "rangedStrength": 30,
+    "cost": 225,
+    "requiredTech": "Industrialization",
+    "upgradesTo": "Machine Gun",
+    "obsoleteTech": "Ballistics",
+    "attackSound": "machinegun"
+  },
+  {
+    "name": "Machine Gun",
+    "unitType": "Ranged Gunpowder",
+    "range": 1,
+    "movement": 2,
+    "strength": 60,
+    "rangedStrength": 60,
+    "cost": 350,
+    "requiredTech": "Ballistics",
+    "upgradesTo": "Mechanized Infantry",
+    "attackSound": "machinegun"
+  },
+  {
     "name": "Mechanized Infantry",
     "unitType": "Gunpowder",
     "movement": 3,
@@ -335,65 +396,35 @@
     "attackSound": "tankshot"
   },
   {
-    "name": "Archer",
-    "unitType": "Archery",
-    "movement": 2,
-    "strength": 5,
-    "rangedStrength": 7,
-    "cost": 40,
-    "requiredTech": "Archery",
-    "obsoleteTech": "Construction",
-    "upgradesTo": "Composite Bowman",
-    "attackSound": "arrow"
+    "name": "Modern Armor",
+    "unitType": "Armored",
+    "movement": 5,
+    "strength": 100,
+    "cost": 425,
+    "requiredTech": "Lasers",
+    "requiredResource": "Aluminum",
+    "upgradesTo": "Giant Death Robot",
+    "uniques": [
+      "Can move after attacking",
+      "No defensive terrain bonus",
+      "Never appears as a Barbarian unit"
+    ],
+    "attackSound": "tankshot"
   },
   {
-    "name": "Composite Bowman",
-    "unitType": "Archery",
-    "movement": 2,
-    "strength": 7,
-    "rangedStrength": 11,
-    "cost": 75,
-    "requiredTech": "Construction",
-    "obsoleteTech": "Machinery",
-    "upgradesTo": "Crossbowman",
-    "attackSound": "arrow"
-  },
-  {
-    "name": "Crossbowman",
-    "unitType": "Archery",
-    "movement": 2,
-    "strength": 13,
-    "rangedStrength": 18,
-    "cost": 120,
-    "requiredTech": "Machinery",
-    "upgradesTo": "Gatling Gun",
-    "obsoleteTech": "Industrialization",
-    "attackSound": "arrow"
-  },
-  {
-    "name": "Gatling Gun",
-    "unitType": "Ranged Gunpowder",
-    "range": 1,
-    "movement": 2,
-    "strength": 30,
-    "rangedStrength": 30,
-    "cost": 225,
-    "requiredTech": "Industrialization",
-    "upgradesTo": "Machine Gun",
-    "obsoleteTech": "Ballistics",
-    "attackSound": "machinegun"
-  },
-  {
-    "name": "Machine Gun",
-    "unitType": "Ranged Gunpowder",
-    "range": 1,
-    "movement": 2,
-    "strength": 60,
-    "rangedStrength": 60,
-    "cost": 350,
-    "requiredTech": "Ballistics",
-    "upgradesTo": "Mechanized Infantry",
-    "attackSound": "machinegun"
+    "name": "Giant Death Robot",
+    "unitType": "Armored",
+    "movement": 5,
+    "strength": 150,
+    "cost": 425,
+    "requiredTech": "Nuclear Fusion",
+    "requiredResource": "Uranium",
+    "uniques": [
+      "Can move after attacking",
+      "No defensive terrain bonus",
+      "Never appears as a Barbarian unit"
+    ],
+    "attackSound": "gdrAttack"
   },
   {
     "name": "Catapult",
@@ -697,6 +728,24 @@
     "attackSound": "machinegun"
   },
   {
+    "name": "Jet Fighter",
+    "unitType": "Fighter",
+    "movement": 1,
+    "strength": 75,
+    "rangedStrength": 75,
+    "range": 10,
+    "interceptRange": 10,
+    "cost": 425,
+    "requiredTech": "Lasers",
+    "requiredResource": "Aluminum",
+    "uniques": [
+      "[100]% chance to intercept air attacks",
+      "[+150]% Strength \u003cvs [Bomber] units\u003e",
+      "[+150]% Strength \u003cvs [Helicopter] units\u003e"
+    ],
+    "attackSound": "jetgun"
+  },
+  {
     "name": "Great War Bomber",
     "unitType": "Bomber",
     "movement": 1,
@@ -721,6 +770,24 @@
     "requiredTech": "Radar",
     "requiredResource": "Oil",
     "upgradesTo": "Stealth Bomber",
+    "attackSound": "bombing"
+  },
+  {
+    "name": "Stealth Bomber",
+    "unitType": "Bomber",
+    "movement": 2,
+    "strength": 85,
+    "rangedStrength": 85,
+    "range": 20,
+    "cost": 425,
+    "requiredTech": "Stealth",
+    "requiredResource": "Aluminum",
+    "uniques": [
+      "Damage taken from interception reduced by [100]%",
+      "Cannot be carried by [Carrier] units",
+      "[+4] Sight",
+      "Can see over obstacles"
+    ],
     "attackSound": "bombing"
   },
   {
@@ -871,73 +938,6 @@
       "Indirect Fire"
     ],
     "attackSound": "shipguns"
-  },
-  {
-    "name": "Modern Armor",
-    "unitType": "Armored",
-    "movement": 5,
-    "strength": 100,
-    "cost": 425,
-    "requiredTech": "Lasers",
-    "requiredResource": "Aluminum",
-    "upgradesTo": "Giant Death Robot",
-    "uniques": [
-      "Can move after attacking",
-      "No defensive terrain bonus",
-      "Never appears as a Barbarian unit"
-    ],
-    "attackSound": "tankshot"
-  },
-  {
-    "name": "Jet Fighter",
-    "unitType": "Fighter",
-    "movement": 1,
-    "strength": 75,
-    "rangedStrength": 75,
-    "range": 10,
-    "interceptRange": 10,
-    "cost": 425,
-    "requiredTech": "Lasers",
-    "requiredResource": "Aluminum",
-    "uniques": [
-      "[100]% chance to intercept air attacks",
-      "[+150]% Strength \u003cvs [Bomber] units\u003e",
-      "[+150]% Strength \u003cvs [Helicopter] units\u003e"
-    ],
-    "attackSound": "jetgun"
-  },
-  {
-    "name": "Giant Death Robot",
-    "unitType": "Armored",
-    "movement": 5,
-    "strength": 150,
-    "cost": 425,
-    "requiredTech": "Nuclear Fusion",
-    "requiredResource": "Uranium",
-    "uniques": [
-      "Can move after attacking",
-      "No defensive terrain bonus",
-      "Never appears as a Barbarian unit"
-    ],
-    "attackSound": "gdrAttack"
-  },
-  {
-    "name": "Stealth Bomber",
-    "unitType": "Bomber",
-    "movement": 2,
-    "strength": 85,
-    "rangedStrength": 85,
-    "range": 20,
-    "cost": 425,
-    "requiredTech": "Stealth",
-    "requiredResource": "Aluminum",
-    "uniques": [
-      "Damage taken from interception reduced by [100]%",
-      "Cannot be carried by [Carrier] units",
-      "[+4] Sight",
-      "Can see over obstacles"
-    ],
-    "attackSound": "bombing"
   },
   {
     "name": "Great Artist",
