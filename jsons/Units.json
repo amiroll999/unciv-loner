@@ -47,7 +47,15 @@
       "Never appears as a Barbarian unit"
     ],
     "promotions": [
-      "Ignore terrain cost", "Scouting I", "Scouting II", "Scouting III", "Survivalism I", "Survivalism II", "Survivalism III"
+      "Ignore terrain cost",
+      "Medic",
+      "Medic II",
+      "Scouting I",
+      "Scouting II",
+      "Scouting III",
+      "Survivalism I",
+      "Survivalism II",
+      "Survivalism III"
     ],
     "attackSound": "nonmetalhit"
   },
@@ -67,7 +75,22 @@
       "Amb II",
       "Amphibious",
       "Besiege",
-      "Blitz"
+      "Blitz",
+      "Cover I",
+      "Cover II",
+      "Drill I",
+      "Drill II",
+      "Drill III",
+      "Formation I",
+      "Formation II",
+      "March",
+      "Medic",
+      "Medic II",
+      "Sentry",
+      "Shock I",
+      "Shock II",
+      "Shock III",
+      "Woodsman"
     ],
     "attackSound": "nonmetalhit",
     "civilopediaText": [
@@ -90,7 +113,22 @@
       "Amb II",
       "Amphibious",
       "Besiege",
-      "Blitz"
+      "Blitz",
+      "Cover I",
+      "Cover II",
+      "Drill I",
+      "Drill II",
+      "Drill III",
+      "Formation I",
+      "Formation II",
+      "March",
+      "Medic",
+      "Medic II",
+      "Sentry",
+      "Shock I",
+      "Shock II",
+      "Shock III",
+      "Woodsman"
     ],
     "requiredResource": "Iron",
     "hurryCostModifier": 20,
@@ -110,7 +148,22 @@
       "Amb II",
       "Amphibious",
       "Besiege",
-      "Blitz"
+      "Blitz",
+      "Cover I",
+      "Cover II",
+      "Drill I",
+      "Drill II",
+      "Drill III",
+      "Formation I",
+      "Formation II",
+      "March",
+      "Medic",
+      "Medic II",
+      "Sentry",
+      "Shock I",
+      "Shock II",
+      "Shock III",
+      "Woodsman"
     ],
     "requiredResource": "Iron",
     "attackSound": "metalhit"
@@ -129,7 +182,22 @@
       "Amb II",
       "Amphibious",
       "Besiege",
-      "Blitz"
+      "Blitz",
+      "Cover I",
+      "Cover II",
+      "Drill I",
+      "Drill II",
+      "Drill III",
+      "Formation I",
+      "Formation II",
+      "March",
+      "Medic",
+      "Medic II",
+      "Sentry",
+      "Shock I",
+      "Shock II",
+      "Shock III",
+      "Woodsman"
     ],
     "attackSound": "shot"
   },
@@ -147,7 +215,22 @@
       "Amb II",
       "Amphibious",
       "Besiege",
-      "Blitz"
+      "Blitz",
+      "Cover I",
+      "Cover II",
+      "Drill I",
+      "Drill II",
+      "Drill III",
+      "Formation I",
+      "Formation II",
+      "March",
+      "Medic",
+      "Medic II",
+      "Sentry",
+      "Shock I",
+      "Shock II",
+      "Shock III",
+      "Woodsman"
     ],
     "attackSound": "shot"
   },
@@ -165,7 +248,22 @@
       "Amb II",
       "Amphibious",
       "Besiege",
-      "Blitz"
+      "Blitz",
+      "Cover I",
+      "Cover II",
+      "Drill I",
+      "Drill II",
+      "Drill III",
+      "Formation I",
+      "Formation II",
+      "March",
+      "Medic",
+      "Medic II",
+      "Sentry",
+      "Shock I",
+      "Shock II",
+      "Shock III",
+      "Woodsman"
     ],
     "attackSound": "shot"
   },
@@ -183,7 +281,22 @@
       "Amb II",
       "Amphibious",
       "Besiege",
-      "Blitz"
+      "Blitz",
+      "Cover I",
+      "Cover II",
+      "Drill I",
+      "Drill II",
+      "Drill III",
+      "Formation I",
+      "Formation II",
+      "March",
+      "Medic",
+      "Medic II",
+      "Sentry",
+      "Shock I",
+      "Shock II",
+      "Shock III",
+      "Woodsman"
     ],
     "attackSound": "shot"
   },
@@ -203,7 +316,14 @@
       "Accuracy III",
       "Barrage I",
       "Barrage II",
-      "Barrage III"
+      "Barrage III",
+      "Cover I",
+      "Cover II",
+      "Extended Range",
+      "Indirect Fire",
+      "Logistics",
+      "March",
+      "Volley"
     ],
     "attackSound": "arrow"
   },
@@ -223,7 +343,14 @@
       "Accuracy III",
       "Barrage I",
       "Barrage II",
-      "Barrage III"
+      "Barrage III",
+      "Cover I",
+      "Cover II",
+      "Extended Range",
+      "Indirect Fire",
+      "Logistics",
+      "March",
+      "Volley"
     ],
     "attackSound": "arrow"
   },
@@ -243,7 +370,14 @@
       "Accuracy III",
       "Barrage I",
       "Barrage II",
-      "Barrage III"
+      "Barrage III",
+      "Cover I",
+      "Cover II",
+      "Extended Range",
+      "Indirect Fire",
+      "Logistics",
+      "March",
+      "Volley"
     ],
     "attackSound": "arrow"
   },
@@ -264,7 +398,14 @@
       "Accuracy III",
       "Barrage I",
       "Barrage II",
-      "Barrage III"
+      "Barrage III",
+      "Cover I",
+      "Cover II",
+      "Extended Range",
+      "Indirect Fire",
+      "Logistics",
+      "March",
+      "Volley"
     ],
     "attackSound": "machinegun"
   },
@@ -284,7 +425,14 @@
       "Accuracy III",
       "Barrage I",
       "Barrage II",
-      "Barrage III"
+      "Barrage III",
+      "Cover I",
+      "Cover II",
+      "Extended Range",
+      "Indirect Fire",
+      "Logistics",
+      "March",
+      "Volley"
     ],
     "attackSound": "machinegun"
   },
@@ -304,7 +452,22 @@
       "Amb II",
       "Amphibious",
       "Besiege",
-      "Blitz"
+      "Blitz",
+      "Cover I",
+      "Cover II",
+      "Drill I",
+      "Drill II",
+      "Drill III",
+      "Formation I",
+      "Formation II",
+      "March",
+      "Medic",
+      "Medic II",
+      "Sentry",
+      "Shock I",
+      "Shock II",
+      "Shock III",
+      "Woodsman"
     ],
     "attackSound": "tankshot"
   },
@@ -325,7 +488,22 @@
       "Amb II",
       "Amphibious",
       "Besiege",
-      "Blitz"
+      "Blitz",
+      "Cover I",
+      "Cover II",
+      "Drill I",
+      "Drill II",
+      "Drill III",
+      "Formation I",
+      "Formation II",
+      "March",
+      "Medic",
+      "Medic II",
+      "Sentry",
+      "Shock I",
+      "Shock II",
+      "Shock III",
+      "Woodsman"
     ],
     "attackSound": "metalhit"
   },
@@ -346,7 +524,22 @@
       "Amb II",
       "Amphibious",
       "Besiege",
-      "Blitz"
+      "Blitz",
+      "Cover I",
+      "Cover II",
+      "Drill I",
+      "Drill II",
+      "Drill III",
+      "Formation I",
+      "Formation II",
+      "March",
+      "Medic",
+      "Medic II",
+      "Sentry",
+      "Shock I",
+      "Shock II",
+      "Shock III",
+      "Woodsman"
     ],
     "attackSound": "metalhit"
   },
@@ -366,7 +559,20 @@
     ],
     "promotions": [
       "Blitz",
-      "Charge"
+      "Charge",
+      "Drill I",
+      "Drill II",
+      "Drill III",
+      "Formation I",
+      "Formation II",
+      "March",
+      "Medic",
+      "Medic II",
+      "Mobility",
+      "Sentry",
+      "Shock I",
+      "Shock II",
+      "Shock III"
     ],
     "upgradesTo": "Anti-Tank Gun",
     "obsoleteTech": "Combined Arms",
@@ -389,7 +595,22 @@
       "Amb II",
       "Amphibious",
       "Besiege",
-      "Blitz"
+      "Blitz",
+      "Cover I",
+      "Cover II",
+      "Drill I",
+      "Drill II",
+      "Drill III",
+      "Formation I",
+      "Formation II",
+      "March",
+      "Medic",
+      "Medic II",
+      "Sentry",
+      "Shock I",
+      "Shock II",
+      "Shock III",
+      "Woodsman"
     ],
     "attackSound": "machinegun"
   },
@@ -414,7 +635,10 @@
     "promotions":[
       "Air Repair",
       "Anti-Armor I",
-      "Anti-Armor II"
+      "Anti-Armor II",
+      "Logistics",
+      "Mobility I",
+      "Mobility II"
     ],
     "attackSound": "machinegun"
   },
@@ -435,7 +659,20 @@
     ],
     "promotions": [
       "Blitz",
-      "Charge"
+      "Charge",
+      "Drill I",
+      "Drill II",
+      "Drill III",
+      "Formation I",
+      "Formation II",
+      "March",
+      "Medic",
+      "Medic II",
+      "Mobility",
+      "Sentry",
+      "Shock I",
+      "Shock II",
+      "Shock III"
     ],
     "hurryCostModifier": 20,
     "attackSound": "horse"
@@ -462,7 +699,14 @@
       "Accuracy III",
       "Barrage I",
       "Barrage II",
-      "Barrage III"
+      "Barrage III",
+      "Cover I",
+      "Cover II",
+      "Extended Range",
+      "Indirect Fire",
+      "Logistics",
+      "March",
+      "Volley"
     ],
     "attackSound": "arrow"
   },
@@ -484,7 +728,20 @@
     ],
     "promotions": [
       "Blitz",
-      "Charge"
+      "Charge",
+      "Drill I",
+      "Drill II",
+      "Drill III",
+      "Formation I",
+      "Formation II",
+      "March",
+      "Medic",
+      "Medic II",
+      "Mobility",
+      "Sentry",
+      "Shock I",
+      "Shock II",
+      "Shock III"
     ],
     "attackSound": "horse"
   },
@@ -506,7 +763,20 @@
     ],
     "promotions": [
       "Blitz",
-      "Charge"
+      "Charge",
+      "Drill I",
+      "Drill II",
+      "Drill III",
+      "Formation I",
+      "Formation II",
+      "March",
+      "Medic",
+      "Medic II",
+      "Mobility",
+      "Sentry",
+      "Shock I",
+      "Shock II",
+      "Shock III"
     ],
     "attackSound": "horse"
   },
@@ -527,7 +797,15 @@
     ],
     "promotions": [
       "Blitz",
-      "Charge"
+      "Charge",
+      "Drill I",
+      "Drill II",
+      "Drill III",
+      "Mobility",
+      "Sentry",
+      "Shock I",
+      "Shock II",
+      "Shock III"
     ],
     "attackSound": "tankshot"
   },
@@ -547,7 +825,15 @@
     ],
     "promotions": [
       "Blitz",
-      "Charge"
+      "Charge",
+      "Drill I",
+      "Drill II",
+      "Drill III",
+      "Mobility",
+      "Sentry",
+      "Shock I",
+      "Shock II",
+      "Shock III"
     ],
     "attackSound": "tankshot"
   },
@@ -567,7 +853,15 @@
     ],
     "promotions": [
       "Blitz",
-      "Charge"
+      "Charge",
+      "Drill I",
+      "Drill II",
+      "Drill III",
+      "Mobility",
+      "Sentry",
+      "Shock I",
+      "Shock II",
+      "Shock III"
     ],
     "attackSound": "tankshot"
   },
@@ -587,7 +881,15 @@
     ],
     "promotions": [
       "Blitz",
-      "Charge"
+      "Charge",
+      "Drill I",
+      "Drill II",
+      "Drill III",
+      "Mobility",
+      "Sentry",
+      "Shock I",
+      "Shock II",
+      "Shock III"
     ],
     "attackSound": "gdrAttack"
   },
@@ -614,7 +916,14 @@
       "Accuracy III",
       "Barrage I",
       "Barrage II",
-      "Barrage III"
+      "Barrage III",
+      "Cover I",
+      "Cover II",
+      "Extended Range",
+      "Indirect Fire",
+      "Logistics",
+      "March",
+      "Volley"
     ],
     "hurryCostModifier": 20,
     "attackSound": "throw"
@@ -642,7 +951,14 @@
       "Accuracy III",
       "Barrage I",
       "Barrage II",
-      "Barrage III"
+      "Barrage III",
+      "Cover I",
+      "Cover II",
+      "Extended Range",
+      "Indirect Fire",
+      "Logistics",
+      "March",
+      "Volley"
     ],
     "attackSound": "throw"
   },
@@ -669,7 +985,14 @@
       "Accuracy III",
       "Barrage I",
       "Barrage II",
-      "Barrage III"
+      "Barrage III",
+      "Cover I",
+      "Cover II",
+      "Extended Range",
+      "Indirect Fire",
+      "Logistics",
+      "March",
+      "Volley"
     ],
     "attackSound": "cannon"
   },
@@ -696,7 +1019,14 @@
       "Accuracy III",
       "Barrage I",
       "Barrage II",
-      "Barrage III"
+      "Barrage III",
+      "Cover I",
+      "Cover II",
+      "Extended Range",
+      "Indirect Fire",
+      "Logistics",
+      "March",
+      "Volley"
     ],
     "attackSound": "artillery"
   },
@@ -723,7 +1053,14 @@
       "Accuracy III",
       "Barrage I",
       "Barrage II",
-      "Barrage III"
+      "Barrage III",
+      "Cover I",
+      "Cover II",
+      "Extended Range",
+      "Indirect Fire",
+      "Logistics",
+      "March",
+      "Volley"
     ],
     "attackSound": "artillery"
   },
@@ -746,7 +1083,12 @@
       "Boarding Party III",
       "Coastal Raiders I",
       "Coastal Raiders II",
-      "Coastal Raiders III"
+      "Coastal Raiders III",
+      "Landing Party",
+      "Logistics",
+      "Mobility",
+      "Sentry",
+      "Supply"
     ],
     "attackSound": "nonmetalhit"
   },
@@ -770,7 +1112,12 @@
       "Boarding Party III",
       "Coastal Raiders I",
       "Coastal Raiders II",
-      "Coastal Raiders III"
+      "Coastal Raiders III",
+      "Landing Party",
+      "Logistics",
+      "Mobility",
+      "Sentry",
+      "Supply"
     ],
     "attackSound": "cannon"
   },
@@ -795,7 +1142,12 @@
       "Boarding Party III",
       "Coastal Raiders I",
       "Coastal Raiders II",
-      "Coastal Raiders III"
+      "Coastal Raiders III",
+      "Landing Party",
+      "Logistics",
+      "Mobility",
+      "Sentry",
+      "Supply"
     ],
     "attackSound": "shipguns"
   },
@@ -816,7 +1168,12 @@
       "Boarding Party III",
       "Coastal Raiders I",
       "Coastal Raiders II",
-      "Coastal Raiders III"
+      "Coastal Raiders III",
+      "Landing Party",
+      "Logistics",
+      "Mobility",
+      "Sentry",
+      "Supply"
     ],
     "attackSound": "cannon"
   },
@@ -841,7 +1198,12 @@
       "Boarding Party III",
       "Coastal Raiders I",
       "Coastal Raiders II",
-      "Coastal Raiders III"
+      "Coastal Raiders III",
+      "Landing Party",
+      "Logistics",
+      "Mobility",
+      "Sentry",
+      "Supply"
     ],
     "attackSound": "shipguns"
   },
@@ -861,7 +1223,16 @@
     "promotions": [
       "Bombardment I",
       "Bombardment II",
-      "Bombardment III"
+      "Bombardment III",
+      "Extended Range",
+      "Indirect Fire",
+      "Logistics",
+      "Mobility",
+      "Sentry",
+      "Supply",
+      "Targeting I",
+      "Targeting II",
+      "Targeting III"
     ],
     "attackSound": "arrow"
   },
@@ -880,7 +1251,16 @@
     "promotions": [
       "Bombardment I",
       "Bombardment II",
-      "Bombardment III"
+      "Bombardment III",
+      "Extended Range",
+      "Indirect Fire",
+      "Logistics",
+      "Mobility",
+      "Sentry",
+      "Supply",
+      "Targeting I",
+      "Targeting II",
+      "Targeting III"
     ],
     "attackSound": "cannon"
   },
@@ -901,7 +1281,16 @@
     "promotions": [
       "Bombardment I",
       "Bombardment II",
-      "Bombardment III"
+      "Bombardment III",
+      "Extended Range",
+      "Indirect Fire",
+      "Logistics",
+      "Mobility",
+      "Sentry",
+      "Supply",
+      "Targeting I",
+      "Targeting II",
+      "Targeting III"
     ],
     "attackSound": "shipguns"
   },
@@ -918,6 +1307,14 @@
       "[+75]% Strength \u003cwhen attacking\u003e",
       "Can only attack [Water] tiles",
       "Never appears as a Barbarian unit"
+    ],
+    "promotions": [
+      "Extended Range",
+      "Logistics",
+      "Mobility",
+      "Wolfpack I",
+      "Wolfpack II",
+      "Wolfpack III"
     ],
     "attackSound": "torpedo"
   },
@@ -936,6 +1333,14 @@
       "[+1] Sight",
       "Can carry [2] [Missile] units",
       "Never appears as a Barbarian unit"
+    ],
+    "promotions": [
+      "Extended Range",
+      "Logistics",
+      "Mobility",
+      "Wolfpack I",
+      "Wolfpack II",
+      "Wolfpack III"
     ],
     "attackSound": "torpedo"
   },
@@ -965,7 +1370,13 @@
       "Amb II",
       "Bombardment I",
       "Bombardment II",
-      "Bombardment III"
+      "Bombardment III",
+      "Interception I",
+      "Interception II",
+      "Interception III",
+      "Logistics",
+      "Operational Range",
+      "Sortie"
     ],
     "attackSound": "machinegun"
   },
@@ -994,7 +1405,13 @@
       "Amb II",
       "Bombardment I",
       "Bombardment II",
-      "Bombardment III"
+      "Bombardment III",
+      "Interception I",
+      "Interception II",
+      "Interception III",
+      "Logistics",
+      "Operational Range",
+      "Sortie"
     ],
     "attackSound": "machinegun"
   },
@@ -1023,7 +1440,13 @@
       "Amb II",
       "Bombardment I",
       "Bombardment II",
-      "Bombardment III"
+      "Bombardment III",
+      "Interception I",
+      "Interception II",
+      "Interception III",
+      "Logistics",
+      "Operational Range",
+      "Sortie"
     ],
     "attackSound": "jetgun"
   },
@@ -1047,7 +1470,13 @@
       "Amb II",
       "Bombardment I",
       "Bombardment II",
-      "Bombardment III"
+      "Bombardment III",
+      "Evasion",
+      "Logistics",
+      "Operational Range",
+      "Siege I",
+      "Siege II",
+      "Siege III"
     ],
     "attackSound": "bombing"
   },
@@ -1070,7 +1499,13 @@
       "Amb II",
       "Bombardment I",
       "Bombardment II",
-      "Bombardment III"
+      "Bombardment III",
+      "Evasion",
+      "Logistics",
+      "Operational Range",
+      "Siege I",
+      "Siege II",
+      "Siege III"
     ],
     "attackSound": "bombing"
   },
@@ -1099,7 +1534,13 @@
      "Amb II",
       "Bombardment I",
       "Bombardment II",
-      "Bombardment III"
+      "Bombardment III",
+      "Evasion",
+      "Logistics",
+      "Operational Range",
+      "Siege I",
+      "Siege II",
+      "Siege III"
     ],
     "attackSound": "bombing"
   },
@@ -1113,8 +1554,11 @@
     "promotions": [
       "Armor Plating I",
       "Armor Plating II",
-      "Armor Plating III"
-    ]
+      "Armor Plating III",
+      "Flight Deck I",
+      "Flight Deck II",
+      "Flight Deck III"
+    ],
     "uniques": [
       "Cannot attack",
       "Can carry [2] [Aircraft] units",
@@ -1142,7 +1586,22 @@
      "Amb II",
      "Amphibious",
       "Besiege",
-      "Blitz"
+      "Blitz",
+      "Cover I",
+      "Cover II",
+      "Drill I",
+      "Drill II",
+      "Drill III",
+      "Formation I",
+      "Formation II",
+      "March",
+      "Medic",
+      "Medic II",
+      "Sentry",
+      "Shock I",
+      "Shock II",
+      "Shock III",
+      "Woodsman"
     ],
     "attackSound": "machinegun"
   },
@@ -1166,7 +1625,22 @@
       "Amb II",
       "Amphibious",
       "Besiege",
-      "Blitz"
+      "Blitz",
+      "Cover I",
+      "Cover II",
+      "Drill I",
+      "Drill II",
+      "Drill III",
+      "Formation I",
+      "Formation II",
+      "March",
+      "Medic",
+      "Medic II",
+      "Sentry",
+      "Shock I",
+      "Shock II",
+      "Shock III",
+      "Woodsman"
     ],
     "attackSound": "missile"
   },
@@ -1182,7 +1656,22 @@
       "Amb II",
       "Amphibious",
       "Besiege",
-      "Blitz"
+      "Blitz",
+      "Cover I",
+      "Cover II",
+      "Drill I",
+      "Drill II",
+      "Drill III",
+      "Formation I",
+      "Formation II",
+      "March",
+      "Medic",
+      "Medic II",
+      "Sentry",
+      "Shock I",
+      "Shock II",
+      "Shock III",
+      "Woodsman"
     ],
     "uniques": [
       "Normal vision when embarked",
@@ -1208,7 +1697,22 @@
       "Amb II",
       "Amphibious",
       "Besiege",
-      "Blitz"
+      "Blitz",
+      "Cover I",
+      "Cover II",
+      "Drill I",
+      "Drill II",
+      "Drill III",
+      "Formation I",
+      "Formation II",
+      "March",
+      "Medic",
+      "Medic II",
+      "Sentry",
+      "Shock I",
+      "Shock II",
+      "Shock III",
+      "Woodsman"
     ],
     "attackSound": "shot"
   },
@@ -1285,7 +1789,16 @@
     "promotions": [
       "Bombardment I",
       "Bombardment II",
-      "Bombardment III"
+      "Bombardment III",
+      "Extended Range",
+      "Indirect Fire",
+      "Logistics",
+      "Mobility",
+      "Sentry",
+      "Supply",
+      "Targeting I",
+      "Targeting II",
+      "Targeting III"
     ],
     "attackSound": "shipguns"
   },
