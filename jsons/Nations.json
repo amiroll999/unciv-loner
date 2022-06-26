@@ -77,7 +77,8 @@
       "[0]% maintenance cost for buildings [in all cities]",
       "[-100]% tile improvement construction time",
       "No Maintenance costs for improvements in [All] tiles",
-      "[0]% XP gained from combat",
+      "[-100]% XP gained from combat <for [All] units>",
+      "[+1] Movement",
       "Cities are razed [3] times as fast",
       "Improves movement speed on roads",
       "\"Borrows\" city names from other civilizations in the game"
